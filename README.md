@@ -1,7 +1,7 @@
 # first-demo
 this is my first repository
 <br>
-author -abhi
+author -abhi rauta
 
 project random quiz game
 <!DOCTYPE html>
